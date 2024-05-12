@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **venakataravi2003@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1s4bejqjhVKKcwrkaROEziqGgVM56t9pv/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1Ms6OWryFq8vDLJYxGwmHHG9Z5dP5USsZ/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
