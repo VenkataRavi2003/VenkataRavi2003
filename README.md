@@ -11,7 +11,7 @@ Automation Test Engineer | Selenium WebDriver | Java | TestNG | QA
 
 ## 👨‍💻 About Me
 
-- 💼 **Automation Test Engineer at Wipro Technologies** with 1 year of experience
+- 💼 **Automation Test Engineer at Wipro Technologies** with 2 years of experience
 - 🧪 Specialized in **Selenium WebDriver automation using Java**
 - 🧩 Experienced in **functional, regression, and end-to-end testing**
 - 🏗️ Strong understanding of **Page Object Model (POM)** and **TestNG**
